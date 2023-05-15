@@ -1,0 +1,1 @@
+# printing-the-index-of-a-charecter-in-an-alphabet-in-c
